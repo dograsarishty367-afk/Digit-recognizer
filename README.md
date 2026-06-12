@@ -17,6 +17,8 @@ And well, it did.
 ## Dataset
 MNIST — 42,000 handwritten digit images from Kaggle Digit Recognizer competition.
 
+![prediction](digit_reco.png)
+
 ## What I built
 A CNN that looks at a 28x28 image and predicts which digit it is.
 Went with CNN over a plain neural network because it understands
