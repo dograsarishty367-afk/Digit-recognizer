@@ -36,7 +36,7 @@ Python, NumPy, Pandas, Matplotlib
 - Difference between training accuracy and validation accuracy and why that gap matters
 
 ## Kaggle Notebook
-[View on Kaggle]()
+[View on Kaggle](https://www.kaggle.com/code/sarishtyd/notebookc1fc440962/edit)
 
 ## Author 
 Sarishty Dogra
