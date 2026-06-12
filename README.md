@@ -4,7 +4,7 @@ I had the theory of neural networks in my head for a while —
 this project was just me trying to see how it actually works.
 
 In a world where everyone's building these with PyTorch and TensorFlow, 
-I was here trying to do it with just Python and NumPy — sounds crazy, I know.
+I was here trying to do it with just Python and NumPy — sounds crazy, I know.😃
 
 But while learning deep learning, I came across this idea: neurons that fire 
 together, wire together. So I figured, why not make my own neurons fire harder 
@@ -34,6 +34,9 @@ Python, NumPy, Pandas, Matplotlib
 - Overfitting — read about it a hundred times, understood it when Dropout actually improved my results
 - The whole pipeline — loading data, preprocessing, training, evaluating, generating predictions
 - Difference between training accuracy and validation accuracy and why that gap matters
+
+## Kaggle Notebook
+[View on Kaggle]()
 
 ## Author 
 Sarishty Dogra
