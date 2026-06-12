@@ -32,3 +32,6 @@ Python, NumPy, Pandas, Matplotlib
 - Overfitting — read about it a hundred times, understood it when Dropout actually improved my results
 - The whole pipeline — loading data, preprocessing, training, evaluating, generating predictions
 - Difference between training accuracy and validation accuracy and why that gap matters
+
+## Author 
+Sarishty Dogra
