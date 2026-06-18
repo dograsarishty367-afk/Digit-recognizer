@@ -1,4 +1,4 @@
-# Handwritten Digit Classifier
+# Handwritten Digit Recognizer
 
 I had the theory of neural networks in my head for a while — 
 this project was just me trying to see how it actually works.
